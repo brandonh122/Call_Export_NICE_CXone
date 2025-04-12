@@ -1,2 +1,2 @@
 # Call_Export_NICE_CXone
-Exporting Calls with Metadata from NICE CXone, storing files downloaded to a remote location upon successful download.
+Python script for automating call exports along with associated Metadata from NICE CXone. 
